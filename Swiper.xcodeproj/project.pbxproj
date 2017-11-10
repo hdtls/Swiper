@@ -10,6 +10,7 @@
 		B17EF2111FB5A64200FD3066 /* Swiper.h in Headers */ = {isa = PBXBuildFile; fileRef = B17EF20F1FB5A64200FD3066 /* Swiper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B17EF2331FB5AD8C00FD3066 /* LayoutAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17EF2321FB5AD8C00FD3066 /* LayoutAttributes.swift */; };
 		B17EF2351FB5AE2F00FD3066 /* ReusableType.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17EF2341FB5AE2F00FD3066 /* ReusableType.swift */; };
+		B17EF2371FB5AE7000FD3066 /* Swiper.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17EF2361FB5AE7000FD3066 /* Swiper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		B17EF21D1FB5A6FF00FD3066 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		B17EF2321FB5AD8C00FD3066 /* LayoutAttributes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayoutAttributes.swift; sourceTree = "<group>"; };
 		B17EF2341FB5AE2F00FD3066 /* ReusableType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReusableType.swift; sourceTree = "<group>"; };
+		B17EF2361FB5AE7000FD3066 /* Swiper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swiper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			children = (
 				B17EF2321FB5AD8C00FD3066 /* LayoutAttributes.swift */,
 				B17EF2341FB5AE2F00FD3066 /* ReusableType.swift */,
+				B17EF2361FB5AE7000FD3066 /* Swiper.swift */,
 			);
 			name = Core;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B17EF2371FB5AE7000FD3066 /* Swiper.swift in Sources */,
 				B17EF2351FB5AE2F00FD3066 /* ReusableType.swift in Sources */,
 				B17EF2331FB5AD8C00FD3066 /* LayoutAttributes.swift in Sources */,
 			);
