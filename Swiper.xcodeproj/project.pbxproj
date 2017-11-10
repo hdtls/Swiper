@@ -22,6 +22,7 @@
 		B17EF2321FB5AD8C00FD3066 /* LayoutAttributes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayoutAttributes.swift; sourceTree = "<group>"; };
 		B17EF2341FB5AE2F00FD3066 /* ReusableType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReusableType.swift; sourceTree = "<group>"; };
 		B17EF2361FB5AE7000FD3066 /* Swiper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swiper.swift; sourceTree = "<group>"; };
+		B17EF2381FB5AEBA00FD3066 /* Swiper.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Swiper.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +74,7 @@
 		B17EF21A1FB5A67F00FD3066 /* Deployment */ = {
 			isa = PBXGroup;
 			children = (
+				B17EF2381FB5AEBA00FD3066 /* Swiper.podspec */,
 				B17EF21B1FB5A6F400FD3066 /* README.md */,
 			);
 			name = Deployment;
